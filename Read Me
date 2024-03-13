@@ -1,0 +1,8 @@
+# Title: Non-Gaussian Covariate-Dependent Spatial Measurement Error Model for Analyzing Spatial Big Data
+
+# Author: Vahid Tadayon and Abdolrahman Rasekh 
+
+# Software: R version 3.3.1
+
+# The text file called “Program-R.txt” is used to generate 50 simulations/programs for the simulation study. We do this way to save the time as each simulation may take sometimes to finish it. Basically, we divide our 200 simulations to 30 different jobs (appropriately) and submit the 30 files (jobs) separately to speed up the process using High Computing Facility. Note that the jobs/files and results are saved in the directory "vv" and we use the linux command called "linuxCommand.txt" to check how many jobs have been finished. We then use the file called "gettingResults_of_Program-R.txt" to extract the results of 45 completely finished simulations from 50 simulations as shown in Tables 1 and 2. 
+
